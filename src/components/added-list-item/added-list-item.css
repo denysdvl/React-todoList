@@ -1,7 +1,7 @@
-.btn-added{
-    width: 35px;
-    margin: 10px;
+
+  .item-add-form{
+      margin-top: 10px;
   }
-  div{
-      padding-right: 5px;
+  .item-add-form input{
+      margin-right: 3px;
   }
